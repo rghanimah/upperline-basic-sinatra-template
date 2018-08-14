@@ -5,4 +5,4 @@ gem install bundler
 bundle install
 
 Every time you want to host your webapp, use this:
-shotgun -p $PORT -o $IP
+shotgun -p $PORT -o $IP 
